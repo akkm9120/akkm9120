@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akkm9120
 - 👀 I’m interested in ... Backend Development 
 - 🌱 I’m currently learning ... Java and NodeJs
-- 💞️ I’m looking to collaborate on ... Everyone who can teach me
+- 💞️ I’m looking to collaborate on ... Possible Things
 - 📫 How to reach me ... WhatsApp( +6591205944)
 
 <!---
