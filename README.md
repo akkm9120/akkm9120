@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aung Kyaw Kyaw Min aka Troy</h1>
-<h3 align="center">Fullstack Developer ⚔️ Exploring AWS Cloud Magic ☁️ | 
+<h1 align="center">Hi 👋, I'm Aung Kyaw Kyaw Min</h1>
+<h3 align="center">Fullstack Developer ⚔️  | 
 Seeking Internship/Junior Developer Role to Level Up! ✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akkm9120&label=Profile%20views&color=0e75b6&style=flat" alt="akkm9120" /> </p>
